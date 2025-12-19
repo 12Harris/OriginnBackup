@@ -1,0 +1,818 @@
+fileFormatVersion: 2
+guid: 71338e8fb6176ed478bc5cb3c0963ad8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 231
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0b3fe7a8171074fa0b3c3a2373e00e
+      internalID: -615289343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 232
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99168f49147a5d94ba6752a7b5a962cc
+      internalID: -1015737912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 231
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ffafee5ece6024dbd980d46a2b7cd1
+      internalID: -24949698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 232
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2daf664395c8440870323db92318fb
+      internalID: 876826620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 198
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443783264840b864ba7235f02c814b2d
+      internalID: 2024827805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 198
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9019f66cdcf02bb499ae783967ed3f1f
+      internalID: -1050868805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 198
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d060331f1131f4a87801554e523f27
+      internalID: 1107320874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 198
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76d0e626179fc045846e47dc2349188
+      internalID: 958002311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 165
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbff43fbfcdbb54893b13f73e6ebf5d
+      internalID: -1724228757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 165
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114fd42070e1acf4a9308afc24261dbf
+      internalID: 1944729130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 165
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26862e9973221354ab2c38427905d529
+      internalID: -539519968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 165
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e103a6f3d3c134e839b716c097fae4
+      internalID: -1741844049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 132
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7bb6c9512b504488a5fe3bb4a69aaa
+      internalID: -186364323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 132
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd8b156806a1fe448dd2142341a27b8
+      internalID: -1077103919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 132
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a65a78919211348bd7d3085f21424d
+      internalID: 590717447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 132
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa845b1e0f268743ba9224514123b4b
+      internalID: 1637513486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 99
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ff36ce21017994ab44aec845f372be
+      internalID: 2080666671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 99
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037ef5daa4593f148adaf60f848d68ab
+      internalID: 1467475930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_18
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 99
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e546aa4ba338a40bfe50a2c061ce79
+      internalID: 1368323468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 99
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dd4b18d79b24b45aad59a95a519d59
+      internalID: 660116981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 66
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a561e587906a4c4d9d852e7af49693c
+      internalID: 234551972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 66
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e13a6bd81de6614f87557f41ea9f576
+      internalID: -493810958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 66
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087567c20ec6a9f4ba9aa643ac83853a
+      internalID: -717606779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 66
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1031cca924e98c149bdc848d62b8ed15
+      internalID: -1408675500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 33
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f57a6ebfaadbd04394f3f35c86be0bc
+      internalID: -834190560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 34
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff13d33a7fe53ee42a171c48bc0cb352
+      internalID: -1399586347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_26
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 33
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aa62213b6f6a64da636d270a89ba17
+      internalID: 603304750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 34
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86341a4028a6d924b8ae0495103aa06a
+      internalID: -1502830668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42579b704749c744a930246054606c2e
+      internalID: 1086848311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_29
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9ebf81250c61f418a87d6289084729
+      internalID: 876120257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 3
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea46527ab450dad45988ac758bd73be4
+      internalID: -2035905212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesMCPlaceHolder_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da9bd27bc4d0e248a2e04d10d3893e3
+      internalID: -1750284348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spritesMCPlaceHolder_0: -615289343
+      spritesMCPlaceHolder_1: -1015737912
+      spritesMCPlaceHolder_10: -539519968
+      spritesMCPlaceHolder_11: -1741844049
+      spritesMCPlaceHolder_12: -186364323
+      spritesMCPlaceHolder_13: -1077103919
+      spritesMCPlaceHolder_14: 590717447
+      spritesMCPlaceHolder_15: 1637513486
+      spritesMCPlaceHolder_16: 2080666671
+      spritesMCPlaceHolder_17: 1467475930
+      spritesMCPlaceHolder_18: 1368323468
+      spritesMCPlaceHolder_19: 660116981
+      spritesMCPlaceHolder_2: -24949698
+      spritesMCPlaceHolder_20: 234551972
+      spritesMCPlaceHolder_21: -493810958
+      spritesMCPlaceHolder_22: -717606779
+      spritesMCPlaceHolder_23: -1408675500
+      spritesMCPlaceHolder_24: -834190560
+      spritesMCPlaceHolder_25: -1399586347
+      spritesMCPlaceHolder_26: 603304750
+      spritesMCPlaceHolder_27: -1502830668
+      spritesMCPlaceHolder_28: 1086848311
+      spritesMCPlaceHolder_29: 876120257
+      spritesMCPlaceHolder_3: 876826620
+      spritesMCPlaceHolder_30: -2035905212
+      spritesMCPlaceHolder_31: -1750284348
+      spritesMCPlaceHolder_4: 2024827805
+      spritesMCPlaceHolder_5: -1050868805
+      spritesMCPlaceHolder_6: 1107320874
+      spritesMCPlaceHolder_7: 958002311
+      spritesMCPlaceHolder_8: -1724228757
+      spritesMCPlaceHolder_9: 1944729130
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
